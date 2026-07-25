@@ -8,3 +8,5 @@ def km_to_miles(km):
 
 def kg_to_lbs(kg):
     return kg * 2.20462
+
+if __name__ == "__main__":
