@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/15felix-au/unit-calc.git
 ```
+
+*Initialized by fullstack-architect-52 workspace automation.*
